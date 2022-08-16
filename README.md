@@ -33,6 +33,25 @@ When you go to play a game, you will asked to simulate it, watch it, or play it.
 •Limit your recruiting
 If you find recruiting to be too easy, maybe try personal limits. Maybe limit yourself to only 3 5-star players, or maybe you have to spend 25% of your points on the transfer portal. Whatever you decide, if you get too many good players, try limiting yourself when the game doesn't. 
 
-That's pretty much it! I hope you guys enjoy the file, and I hope it keeps itself semi-accurate for at least a few seasons (sorry Akron, no playoffs for you). I plan to update it with coaches in the future, if I can find the time. Until then, have fun creating a dynasty!
+---------------------------
+
+Current Issues:
+•Head Coaches not accurate: This is a planned update if I find the time, right now all coaches are random.
+•Innacurate Conferences: There are 12 conferences in this game, rather than 10. Each conference has 10 teams with no divisions, so I had to make some adjustments, adding 1 Power conference and 1 "lower" conference. The Continental Conference is the new Power conference, and the Independence conference is the new lower conference. The Continental is based on Power 5 teams that were removed from their conferences for space, and the Independence conference is based on the original 13 colonies, along with the service academies. 
+•Missing teams. Below I will list the teams I had to remove. If you want, you can edit teams in the game to re-add these teams very easily. 
+-Stanford
+-Colorado
+-Colorado State
+-Charlotte
+-NIU
+-Buffalo
+-Marshall
+-ULM
+-New Mexico State
+-Old Dominion
+
+-------------------------
+
+That's pretty much it! I hope you guys enjoy the file, and I hope it keeps itself semi-accurate for at least a few seasons (sorry Akron, no playoffs for you). I plan to update it in the future, if I can find the time. Until then, have fun creating a dynasty!
 
 -Mango
