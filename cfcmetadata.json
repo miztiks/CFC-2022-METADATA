@@ -53,7 +53,7 @@
 						"ALA": "Iron Bowl",
 						"UGA": "Deep South's Oldest Rivalry"
 					},
-					"prestige": "68",
+					"prestige": "80",
 					"hexColor": "#0C2340"
 				},
 				{
@@ -90,7 +90,7 @@
 						"LSU": "Battle for the Golden Boot",
 						"TUL": "Battle for the Rag"
 					},
-					"prestige": "78",
+					"prestige": "88",
 					"hexColor": "#461D7C"
 				},
 				{
@@ -230,7 +230,7 @@
 					"rivalryNames": {
 						"PITT": "The Keystone Classic"
 					},
-					"prestige": "79",
+					"prestige": "85",
 					"hexColor": "#041E42"
 				},
 				{
@@ -241,7 +241,7 @@
 					"rivalryNames": {
 						"INDY": "The Bucket Game"
 					},
-					"prestige": "78",
+					"prestige": "75",
 					"hexColor": "#CEB888"
 				},
 				{
@@ -252,7 +252,7 @@
 					"rivalryNames": {
 						"MINN": "The Axe Game"
 					},
-					"prestige": "85",
+					"prestige": "80",
 					"hexColor": "#C5050C"
 				}
 			]
@@ -302,7 +302,7 @@
 					"abbreviation": "PITT",
 					"rival": ["ND"],
 					"rivalryNames": {},
-					"prestige": "82",
+					"prestige": "76",
 					"hexColor": "#003594"
 				},
 				{
@@ -460,14 +460,14 @@
 					"hexColor": "#FF7300"
 				},
 				{
-					"name": "Texas Christian",
+					"name": "TCU",
 					"state": "Texas",
 					"abbreviation": "TCU",
 					"rival": ["BAY", "TTU"],
 					"rivalryNames": {
 						"BAY": "The Revivalry"
 					},
-					"prestige": "71",
+					"prestige": "80",
 					"hexColor": "#4D1979"
 				},
 				{
@@ -547,7 +547,7 @@
 						"BYU": "The Holy War",
 						"USU": "Battle of the Brothers"
 					},
-					"prestige": "88",
+					"prestige": "80",
 					"hexColor": "#CC0000"
 				},
 				{
