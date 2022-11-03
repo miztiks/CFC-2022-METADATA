@@ -29,7 +29,7 @@
 						"AUB": "Iron Bowl",
 						"TENN": "Third Saturday in October"
 					},
-					"prestige": "94",
+					"prestige": "95",
 					"hexColor": "#9E1B32"
 				},
 				{
@@ -77,7 +77,7 @@
 						"FLO": "World's Largest Cocktail Party",
 						"GT": "Clean Old-Fashioned Hate"
 					},
-					"prestige": "92",
+					"prestige": "95",
 					"hexColor": "#BA0C2F"
 				},
 				{
@@ -102,7 +102,7 @@
 						"ALA": "Third Saturday in October",
 						"VAND": "Rivarly Game"
 					},
-					"prestige": "79",
+					"prestige": "85",
 					"hexColor": "#FF8200"
 				},
 				{
@@ -135,7 +135,7 @@
 						"LSU": "Sabine Showdown",
 						"TEX": "Lone Star Showdown"
 					},
-					"prestige": "88",
+					"prestige": "81",
 					"hexColor": "#500000"
 				}
 			]
@@ -148,9 +148,9 @@
 					"name": "Indiana",
 					"state": "Indiana",
 					"abbreviation": "IND",
-					"rival": ["PUR", "MSU"],
+					"rival": ["PUR", "MSU","BALL"],
 					"rivalryNames": {
-						"PUR": "The Bucket Game"
+						"PUR": "Hoosier Bowl","BALL": "The Indiana Bowl"
 					},
 					"prestige": "52",
 					"hexColor": "#990000"
@@ -219,7 +219,7 @@
 					"rivalryNames": {
 						"MICH": "The Game"
 					},
-					"prestige": "93",
+					"prestige": "95",
 					"hexColor": "#BB0000"
 				},
 				{
@@ -456,7 +456,7 @@
 						"OKLA": "Bedlam",
 						"TLSA": "Bank of Oklahoma Turnpike Classic"
 					},
-					"prestige": "85",
+					"prestige": "81",
 					"hexColor": "#FF7300"
 				},
 				{
@@ -467,7 +467,7 @@
 					"rivalryNames": {
 						"BAY": "The Revivalry"
 					},
-					"prestige": "80",
+					"prestige": "85",
 					"hexColor": "#4D1979"
 				},
 				{
@@ -591,7 +591,7 @@
 					"rivalryNames": {
 						"WSU": "The Apple Cup"
 					},
-					"prestige": "75",
+					"prestige": "72",
 					"hexColor": "#4B2E83"
 				},
 				{
@@ -621,7 +621,7 @@
 					"hexColor": "#13294B"
 				},
 				{
-					"name": "Brigham Young",
+					"name": "BYU",
 					"state": "Utah",
 					"abbreviation": "BYU",
 					"rival": ["UTAH"],
@@ -639,7 +639,7 @@
 					"rivalryNames": {
 						"OLE": "The Egg Bowl"
 					},
-					"prestige": "76",
+					"prestige": "72",
 					"hexColor": "#660000"
 				},
 				{
@@ -828,8 +828,8 @@
 					"name": "Ball State",
 					"state": "Indiana",
 					"abbreviation": "BALL",
-					"rival": ["BGSU"],
-					"rivalryNames": {},
+					"rival": ["BGSU","IND"],
+					"rivalryNames": {"IND":"The Indiana Bowl"},
 					"prestige": "48",
 					"hexColor": "#BA0C2F"
 				},
@@ -848,7 +848,7 @@
 					"abbreviation": "CMU",
 					"rival": ["TOL"],
 					"rivalryNames": {},
-					"prestige": "67",
+					"prestige": "60",
 					"hexColor": "#6A0032"
 				},
 				{
@@ -1053,8 +1053,8 @@
 					"abbreviation": "UAB",
 					"rival": ["WKU"],
 					"rivalryNames": {},
-					"prestige": "72",
-					"hexColor": "#006341"
+					"prestige": "70",
+					" hexColor": "#006341"
 				},
 				{
 					"name": "UTSA",
@@ -1062,7 +1062,7 @@
 					"abbreviation": "UTSA",
 					"rival": ["UTEP"],
 					"rivalryNames": {},
-					"prestige": "72",
+					"prestige": "65",
 					"hexColor": "#F15A22"
 				},
 				{
@@ -1113,7 +1113,7 @@
 					"abbreviation": "BSU",
 					"rival": ["FRES"],
 					"rivalryNames": {},
-					"prestige": "74",
+					"prestige": "70",
 					"hexColor": "#D64309"
 				},
 				{
@@ -1122,7 +1122,7 @@
 					"abbreviation": "FRES",
 					"rival": ["BSU"],
 					"rivalryNames": {},
-					"prestige": "74",
+					"prestige": "69",
 					"hexColor": "#DB0032"
 				},
 				{
@@ -1253,7 +1253,7 @@
 					"hexColor": "#003087"
 				},
 				{
-					"name": "Southern Methodist",
+					"name": "SMU",
 					"state": "Texas",
 					"abbreviation": "SMU",
 					"rival": ["HOU"],
