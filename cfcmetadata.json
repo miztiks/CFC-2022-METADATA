@@ -595,14 +595,15 @@
 					"hexColor": "#4B2E83"
 				},
 				{
-					"name": "Washington State",
-					"state": "Washington",
-					"abbreviation": "WSU",
-					"rival": ["WASH"],
+					"name": "UCA",
+					"state": "California",
+					"abbreviation": "UCA",
+					"rival": ["UCLA","USC","CALI"],
 					"rivalryNames": {
-						"WASH": "The Apple Cup"
+						"UCLA": "The Battle of LA",
+                                                "USC": "The Cali Rumble"
 					},
-					"prestige": "60",
+					"prestige": "75",
 					"hexColor": "#981E32"
 				}
 			]
