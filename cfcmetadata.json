@@ -500,7 +500,7 @@
 					"name": "California",
 					"state": "California",
 					"abbreviation": "CAL",
-					"rival": ["UCLA"],
+					"rival": ["UCLA","UCA"],
 					"rivalryNames": {},
 					"prestige": "54",
 					"hexColor": "#003262"
@@ -531,10 +531,11 @@
 					"name": "UCLA",
 					"state": "California",
 					"abbreviation": "UCLA",
-					"rival": ["USC", "CAL"],
+					"rival": ["USC", "CAL","UCA"],
 					"rivalryNames": {
-						"USC": "Victory Bell"
-					},
+						"USC": "Victory Bell",
+                                                "UCA": "The Battle of LA"
+					}, 
 					"prestige": "79",
 					"hexColor": "#2D68C4"
 				},
@@ -554,9 +555,10 @@
 					"name": "USC",
 					"state": "California",
 					"abbreviation": "USC",
-					"rival": ["UCLA", "ND"],
+					"rival": ["UCLA", "ND","UCA"],
 					"rivalryNames": {
-						"UCLA": "Victory Bell"
+						"UCLA": "Victory Bell",
+                                                "UCA": "The Cali Rumble"
 					},
 					"prestige": "82",
 					"hexColor": "#990000"
