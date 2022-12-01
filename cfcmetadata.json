@@ -60,10 +60,11 @@
 					"name": "Florida",
 					"state": "Florida",
 					"abbreviation": "FLO",
-					"rival": ["UGA", "FSU"],
+					"rival": ["UGA", "FSU","MAC"],
 					"rivalryNames": {
 						"UGA": "World's Largest Cocktail Party",
 						"FSU": "Sunshine Showdown"
+                                                "MAC": "The Sunshine Rivalry"
 					},
 					"prestige": "77",
 					"hexColor": "#0021A5"
@@ -76,6 +77,7 @@
 					"rivalryNames": {
 						"FLO": "World's Largest Cocktail Party",
 						"GT": "Clean Old-Fashioned Hate"
+                                                "MAC": "The Georgian Rival"
 					},
 					"prestige": "95",
 					"hexColor": "#BA0C2F"
@@ -118,12 +120,15 @@
 					"hexColor": "#73000A"
 				},
 				{
-					"name": "Vanderbilt",
-					"state": "Tennessee",
-					"abbreviation": "VAN",
-					"rival": ["TENN"],
-					"rivalryNames": {},
-					"prestige": "30",
+					"name": "Macon",
+					"state": "Georgia",
+					"abbreviation": "MAC",
+					"rival": ["UGA","FLO"],
+					"rivalryNames": {
+                                                "UGA": "The Georgian Rival"
+                                                "FLO": "The Sunshine Rivalry"
+                                },
+					"prestige": "76",
 					"hexColor": "#866D4B"
 				},
 				{
@@ -152,7 +157,7 @@
 					"rivalryNames": {
 						"PUR": "Hoosier Bowl","BALL": "The Indiana Bowl"
 					},
-					"prestige": "52",
+					"prestige": "65",
 					"hexColor": "#990000"
 				},
 				{
@@ -164,7 +169,7 @@
 						"OSU": "The Game",
 						"MSU": "Paul Bunyan Trophy"
 					},
-					"prestige": "88",
+					"prestige": "95",
 					"hexColor": "#00274C"
 				},
 				{
@@ -230,7 +235,7 @@
 					"rivalryNames": {
 						"PITT": "The Keystone Classic"
 					},
-					"prestige": "85",
+					"prestige": "89",
 					"hexColor": "#041E42"
 				},
 				{
@@ -270,7 +275,7 @@
 						"SCAR": "The Palmetto Bowl",
 						"NCSU": "Textile Bowl"
 					},
-					"prestige": "92",
+					"prestige": "94",
 					"hexColor": "#F56600"
 				},
 				{
@@ -293,7 +298,7 @@
 					"rivalryNames": {
 						"FLO": "Sunshine Showdown"
 					},
-					"prestige": "72",
+					"prestige": "80",
 					"hexColor": "#782F40"
 				},
 				{
@@ -432,7 +437,7 @@
 					"rivalryNames": {
 						"KSU": "Sunflower Showdown"
 					},
-					"prestige": "20",
+					"prestige": "65",
 					"hexColor": "#0051BA"
 				},
 				{
@@ -467,7 +472,7 @@
 					"rivalryNames": {
 						"BAY": "The Revivalry"
 					},
-					"prestige": "85",
+					"prestige": "93",
 					"hexColor": "#4D1979"
 				},
 				{
@@ -513,7 +518,7 @@
 					"rivalryNames": {
 						"ORSU": "The Civil War"
 					},
-					"prestige": "85",
+					"prestige": "91",
 					"hexColor": "#154733"
 				},
 				{
@@ -524,7 +529,7 @@
 					"rivalryNames": {
 						"ORE": "The Civil War"
 					},
-					"prestige": "66",
+					"prestige": "76",
 					"hexColor": "#DC4405"
 				},
 				{
@@ -558,7 +563,7 @@
 					"rivalryNames": {
 						"UCLA": "Victory Bell"
 					},
-					"prestige": "82",
+					"prestige": "90",
 					"hexColor": "#990000"
 				},
 				{
@@ -591,7 +596,7 @@
 					"rivalryNames": {
 						"WSU": "The Apple Cup"
 					},
-					"prestige": "72",
+					"prestige": "80",
 					"hexColor": "#4B2E83"
 				},
 				{
@@ -710,7 +715,7 @@
 					"rivalryNames": {
 						"MSST": "The Egg Bowl"
 					},
-					"prestige": "80",
+					"prestige": "89",
 					"hexColor": "#CE1126"
 				}
 			]
@@ -725,7 +730,7 @@
 					"abbreviation": "APP",
 					"rival": ["CCU"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "64",
 					"hexColor": "#222222"
 				},
 				{
@@ -770,16 +775,16 @@
 					"abbreviation": "ULL",
 					"rival": ["USM"],
 					"rivalryNames": {},
-					"prestige": "68",
+					"prestige": "50",
 					"hexColor": "#CE181E"
 				},
 				{
 					"name": "Texas State",
-					"state": "Louisiana",
+					"state": "Texas",
 					"abbreviation": "TSU",
 					"rival": ["AKSU"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "55",
 					"hexColor": "#840029"
 				},
 				{
@@ -806,7 +811,7 @@
 					"abbreviation": "TROY",
 					"rival": ["USA"],
 					"rivalryNames": {},
-					"prestige": "60",
+					"prestige": "51",
 					"hexColor": "#8A2432"
 				}
 			]
@@ -875,7 +880,7 @@
 					"abbreviation": "MIOH",
 					"rival": ["OHIO"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "52",
 					"hexColor": "#B61E2E"
 				},
 				{
@@ -893,7 +898,7 @@
 					"abbreviation": "TOL",
 					"rival": ["CMU"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "49",
 					"hexColor": "#15397F"
 				},
 				{
@@ -902,7 +907,7 @@
 					"abbreviation": "WMU",
 					"rival": ["EMU"],
 					"rivalryNames": {},
-					"prestige": "61",
+					"prestige": "54",
 					"hexColor": "#6C4023"
 				}
 			]
@@ -966,7 +971,7 @@
 					"abbreviation": "SYR",
 					"rival": ["GT", "BC"],
 					"rivalryNames": {},
-					"prestige": "45",
+					"prestige": "75",
 					"hexColor": "#F76900"
 				},
 				{
@@ -1002,7 +1007,7 @@
 					"abbreviation": "LIB",
 					"rival": ["RUT"],
 					"rivalryNames": {},
-					"prestige": "60",
+					"prestige": "50",
 					"hexColor": "#002D62"
 				}
 			]
@@ -1017,7 +1022,7 @@
 					"abbreviation": "FAU",
 					"rival": ["FIU"],
 					"rivalryNames": {},
-					"prestige": "65",
+					"prestige": "55",
 					"hexColor": "#003366"
 				},
 				{
@@ -1035,7 +1040,7 @@
 					"abbreviation": "LTEC",
 					"rival": ["MTSU"],
 					"rivalryNames": {},
-					"prestige": "56",
+					"prestige": "44",
 					"hexColor": "#002F8B"
 				},
 				{
@@ -1044,7 +1049,7 @@
 					"abbreviation": "MTSU",
 					"rival": ["LTEC"],
 					"rivalryNames": {},
-					"prestige": "60",
+					"prestige": "45",
 					"hexColor": "#0066CC"
 				},
 				{
@@ -1053,7 +1058,7 @@
 					"abbreviation": "UAB",
 					"rival": ["WKU"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "55",
 					" hexColor": "#006341"
 				},
 				{
@@ -1062,7 +1067,7 @@
 					"abbreviation": "UTSA",
 					"rival": ["UTEP"],
 					"rivalryNames": {},
-					"prestige": "65",
+					"prestige": "45",
 					"hexColor": "#F15A22"
 				},
 				{
@@ -1071,7 +1076,7 @@
 					"abbreviation": "UTSA",
 					"rival": ["UTSA"],
 					"rivalryNames": {},
-					"prestige": "58",
+					"prestige": "45",
 					"hexColor": "#FF8200"
 				},
 				{
@@ -1080,7 +1085,7 @@
 					"abbreviation": "UNT",
 					"rival": ["RICE"],
 					"rivalryNames": {},
-					"prestige": "61",
+					"prestige": "40",
 					"hexColor": "#00853E"
 				},
 				{
@@ -1098,7 +1103,7 @@
 					"abbreviation": "WKU",
 					"rival": ["UAB"],
 					"rivalryNames": {},
-					"prestige": "68",
+					"prestige": "55",
 					"hexColor": "#C60C30"
 				}
 			]
@@ -1113,7 +1118,7 @@
 					"abbreviation": "BSU",
 					"rival": ["FRES"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "60",
 					"hexColor": "#D64309"
 				},
 				{
@@ -1122,7 +1127,7 @@
 					"abbreviation": "FRES",
 					"rival": ["BSU"],
 					"rivalryNames": {},
-					"prestige": "69",
+					"prestige": "55",
 					"hexColor": "#DB0032"
 				},
 				{
@@ -1140,7 +1145,7 @@
 					"abbreviation": "NEV",
 					"rival": ["UNLV"],
 					"rivalryNames": {},
-					"prestige": "64",
+					"prestige": "55",
 					"hexColor": "#003366"
 				},
 				{
@@ -1149,7 +1154,7 @@
 					"abbreviation": "SDSU",
 					"rival": ["SJSU"],
 					"rivalryNames": {},
-					"prestige": "72",
+					"prestige": "60",
 					"hexColor": "#A6192E"
 				},
 				{
@@ -1158,7 +1163,7 @@
 					"abbreviation": "SJSU",
 					"rival": ["SDSU"],
 					"rivalryNames": {},
-					"prestige": "65",
+					"prestige": "45",
 					"hexColor": "#0055A2"
 				},
 				{
@@ -1178,7 +1183,7 @@
 					"rivalryNames": {
 						"UTAH": "Battle of the Brothers"
 					},
-					"prestige": "65",
+					"prestige": "70",
 					"hexColor": "#00263A"
 				},
 				{
@@ -1196,7 +1201,7 @@
 					"abbreviation": "WYO",
 					"rival": ["UNM"],
 					"rivalryNames": {},
-					"prestige": "65",
+					"prestige": "40",
 					"hexColor": "#492F24"
 				}
 			]
@@ -1211,7 +1216,7 @@
 					"abbreviation": "ECU",
 					"rival": ["TLSA"],
 					"rivalryNames": {},
-					"prestige": "64",
+					"prestige": "55",
 					"hexColor": "#592A8A"
 				},
 				{
@@ -1222,7 +1227,7 @@
 					"rivalryNames": {
 						"USF": "War on I4"
 					},
-					"prestige": "72",
+					"prestige": "65",
 					"hexColor": "#BA9B37"
 				},
 				{
@@ -1231,7 +1236,7 @@
 					"abbreviation": "CIN",
 					"rival": ["MEM"],
 					"rivalryNames": {},
-					"prestige": "75",
+					"prestige": "80",
 					"hexColor": "#000000"
 				},
 				{
@@ -1240,7 +1245,7 @@
 					"abbreviation": "HOU",
 					"rival": ["SMU"],
 					"rivalryNames": {},
-					"prestige": "74",
+					"prestige": "77",
 					"hexColor": "#C8102E"
 				},
 				{
@@ -1249,7 +1254,7 @@
 					"abbreviation": "MEM",
 					"rival": ["CIN"],
 					"rivalryNames": {},
-					"prestige": "68",
+					"prestige": "65",
 					"hexColor": "#003087"
 				},
 				{
@@ -1258,7 +1263,7 @@
 					"abbreviation": "SMU",
 					"rival": ["HOU"],
 					"rivalryNames": {},
-					"prestige": "70",
+					"prestige": "45",
 					"hexColor": "#0033A0"
 				},
 				{
@@ -1267,7 +1272,7 @@
 					"abbreviation": "USF",
 					"rival": ["TUL"],
 					"rivalryNames": {},
-					"prestige": "60",
+					"prestige": "45",
 					"hexColor": "#006747"
 				},
 				{
@@ -1276,7 +1281,7 @@
 					"abbreviation": "TUL",
 					"rival": ["TEM"],
 					"rivalryNames": {},
-					"prestige": "55",
+					"prestige": "60",
 					"hexColor": "#006747"
 				},
 				{
