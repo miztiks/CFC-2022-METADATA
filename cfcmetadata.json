@@ -155,7 +155,8 @@
 					"abbreviation": "IND",
 					"rival": ["PUR", "MSU","BALL"],
 					"rivalryNames": {
-						"PUR": "Hoosier Bowl","BALL": "The Indiana Bowl"
+						"PUR": "Hoosier Bowl",
+                                                "BALL": "The Indiana Bowl"
 					},
 					"prestige": "65",
 					"hexColor": "#990000"
