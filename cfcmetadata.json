@@ -208,7 +208,7 @@
 					"abbreviation": "NW",
 					"rival": ["ILL"],
 					"rivalryNames": {},
-					"prestige": "50",
+					"prestige": "65",
 					"hexColor": "#4E2A84"
 				},
 				{
@@ -282,7 +282,7 @@
 						"UNC": "Tobacco Road",
 						"WAKE": "Tobacco Bowl"
 					},
-					"prestige": "35",
+					"prestige": "70",
 					"hexColor": "#003087"
 				},
 				{
@@ -311,7 +311,7 @@
 					"abbreviation": "MIA",
 					"rival": ["FSU", "VT"],
 					"rivalryNames": {},
-					"prestige": "82",
+					"prestige": "80",
 					"hexColor": "#F47321"
 				},
 				{
@@ -323,7 +323,7 @@
 						"DUKE": "Tobacco Road",
 						"NCSU": "Tobacco Road"
 					},
-					"prestige": "75",
+					"prestige": "80",
 					"hexColor": "#7BAFD4"
 				},
 				{
@@ -444,7 +444,7 @@
 						"KAN": "Sunflower Showdown",
 						"ISU": "Farmageddon"
 					},
-					"prestige": "75",
+					"prestige": "80",
 					"hexColor": "#512888"
 				},
 				{
@@ -456,7 +456,7 @@
 						"OKLA": "Bedlam",
 						"TLSA": "Bank of Oklahoma Turnpike Classic"
 					},
-					"prestige": "81",
+					"prestige": "84",
 					"hexColor": "#FF7300"
 				},
 				{
@@ -476,7 +476,7 @@
 					"abbreviation": "TTU",
 					"rival": ["BAY", "TCU"],
 					"rivalryNames": {},
-					"prestige": "55",
+					"prestige": "70",
 					"hexColor": "#CC0000"
 				},
 				{
@@ -487,7 +487,7 @@
 					"rivalryNames": {
 						"PITT": "The Backyard Brawl"
 					},
-					"prestige": "55",
+					"prestige": "65",
 					"hexColor": "#002855"
 				}
 			]
@@ -502,7 +502,7 @@
 					"abbreviation": "CAL",
 					"rival": ["UCLA"],
 					"rivalryNames": {},
-					"prestige": "54",
+					"prestige": "70",
 					"hexColor": "#003262"
 				},
 				{
@@ -513,7 +513,7 @@
 					"rivalryNames": {
 						"ORSU": "The Civil War"
 					},
-					"prestige": "85",
+					"prestige": "90",
 					"hexColor": "#154733"
 				},
 				{
@@ -524,7 +524,7 @@
 					"rivalryNames": {
 						"ORE": "The Civil War"
 					},
-					"prestige": "66",
+					"prestige": "80",
 					"hexColor": "#DC4405"
 				},
 				{
@@ -569,7 +569,7 @@
 					"rivalryNames": {
 						"ASU": "The Duel in the Desert"
 					},
-					"prestige": "20",
+					"prestige": "60",
 					"hexColor": "#CC0033"
 				},
 				{
@@ -580,7 +580,7 @@
 					"rivalryNames": {
 						"AZ": "The Duel in the Desert"
 					},
-					"prestige": "63",
+					"prestige": "70",
 					"hexColor": "#8C1D40"
 				},
 				{
@@ -591,7 +591,7 @@
 					"rivalryNames": {
 						"WSU": "The Apple Cup"
 					},
-					"prestige": "72",
+					"prestige": "75",
 					"hexColor": "#4B2E83"
 				},
 				{
@@ -602,7 +602,7 @@
 					"rivalryNames": {
 						"WASH": "The Apple Cup"
 					},
-					"prestige": "60",
+					"prestige": "65",
 					"hexColor": "#981E32"
 				}
 			]
@@ -628,7 +628,7 @@
 					"rivalryNames": {
 						"UTAH": "The Holy War"
 					},
-					"prestige": "79",
+					"prestige": "75",
 					"hexColor": "#002E5D"
 				},
 				{
@@ -639,7 +639,7 @@
 					"rivalryNames": {
 						"OLE": "The Egg Bowl"
 					},
-					"prestige": "72",
+					"prestige": "70",
 					"hexColor": "#660000"
 				},
 				{
@@ -650,7 +650,7 @@
 					"rivalryNames": {
 						"UK": "The Governors Cup"
 					},
-					"prestige": "74",
+					"prestige": "70",
 					"hexColor": "#AD0000"
 				},
 				{
@@ -659,7 +659,7 @@
 					"abbreviation": "MARY",
 					"rival": ["ILL"],
 					"rivalryNames": {},
-					"prestige": "73",
+					"prestige": "70",
 					"hexColor": "#E03A3E"
 				},
 				{
@@ -681,7 +681,7 @@
 					"rivalryNames": {
 						"SCAR": "The Mayors Cup"
 					},
-					"prestige": "55",
+					"prestige": "65",
 					"hexColor": "#F1B82D"
 				},
 				{
@@ -699,7 +699,7 @@
 					"abbreviation": "NEB",
 					"rival": ["IOWA", "OKLA", "WISC"],
 					"rivalryNames": {},
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#E41C38"
 				},
 				{
@@ -1009,7 +1009,7 @@
 		},
 		{
 			"confFullName": "Conference USA",
-			"confPrestige": "60",
+			"confPrestige": "55",
 			"confName": "CUSA",
 			"confTeams": [{
 					"name": "Florida Atlantic",
@@ -1105,7 +1105,7 @@
 		},
 		{
 			"confFullName": "Mountain West",
-			"confPrestige": "70",
+			"confPrestige": "60",
 			"confName": "MWC",
 			"confTeams": [{
 					"name": "Boise State",
@@ -1203,7 +1203,7 @@
 		},
 		{
 			"confFullName": "American Athletic",
-			"confPrestige": "70",
+			"confPrestige": "65",
 			"confName": "AAC",
 			"confTeams": [{
 					"name": "East Carolina",
